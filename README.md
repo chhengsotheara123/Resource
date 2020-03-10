@@ -1,0 +1,2 @@
+# Resource
+Just another repository
